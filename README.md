@@ -1,5 +1,5 @@
 
-Hii
+ <img src="./logo.webp" alt="Logo" width="200"/>
 # 💫 About Me:
 🚀I'm currently working on React.js and Node.js<br>🚀I'm currently learning Blockchain
 
