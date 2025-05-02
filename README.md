@@ -1,9 +1,4 @@
-<p>
-  <a href="https://postimg.cc/yJnwT7nb">
-    <img src="https://i.postimg.cc/MT8qqTBq/logo-converted.jpg" alt="Logo" width="90" height="90" style="border-radius: 50%; object-fit: cover;" />
-  </a>
-</p>
-
+ <strong>Hii</strong>
 # 💫 About Me:
 🚀I'm currently working on React.js and Node.js<br>🚀I'm currently learning Blockchain
 
