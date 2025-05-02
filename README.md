@@ -1,6 +1,6 @@
 <p >
   <a href="https://postimg.cc/yJnwT7nb">
-    <img src="https://i.postimg.cc/MT8qqTBq/logo-converted.jpg" alt="Logo" width="150" style="border-radius: 50%;" />
+    <img src="https://i.postimg.cc/MT8qqTBq/logo-converted.jpg" alt="Logo" width="90" height="90" style="border-radius: 50%" />
   </a>
 </p>
 
