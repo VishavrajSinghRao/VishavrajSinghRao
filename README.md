@@ -1,4 +1,4 @@
-[![logo-converted.jpg](https://i.postimg.cc/MT8qqTBq/logo-converted.jpg)](https://postimg.cc/yJnwT7nb)
+https://i.postimg.cc/MT8qqTBq/logo-converted.jpg
 
 # 💫 About Me:
 🚀I'm currently working on React.js and Node.js<br>🚀I'm currently learning Blockchain
