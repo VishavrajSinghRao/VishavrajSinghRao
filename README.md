@@ -1,6 +1,4 @@
- <p align="center">
-  <strong>Hii</strong>
-</p>
+
 # 💫 About Me:
 🚀I'm currently working on React.js and Node.js<br>🚀I'm currently learning Blockchain
 
