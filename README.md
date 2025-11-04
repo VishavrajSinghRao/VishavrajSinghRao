@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🚀I'm currently working on React.js and Node.js<br>🚀I'm currently learning Blockchain
+🚀I'm currently working on React.js and Node.js<br>🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__03_vishal__/) 
