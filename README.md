@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React.js+%2B+Node.js+Enthusiast;Web3+%26+Blockchain+Explorer;Building+cool+stuff+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=VishavrajSinghRao&color=00d9ff&style=flat-square&label=Profile+Views" />
+![](https://visitcount.itsvg.in/api?id=VishavrajSinghRao&icon=5&color=6)
 
 </div>
 
