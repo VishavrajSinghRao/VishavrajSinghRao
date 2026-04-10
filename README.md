@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 ```js
-const vishavraj = {
+const Vishavraj = {
   role        : "Full Stack Developer",
   currentWork : ["React.js", "Node.js"],
   exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
@@ -93,6 +93,14 @@ const vishavraj = {
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
+
+## 🎓 Certifications
+
+<div align="center">
+
+[![RHCSA](https://img.shields.io/badge/Red%20Hat%20Certified%20System%20Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/badges/a91fa515-97e3-43a3-bd21-53b777ac7175/public_url)
+
+</div>
 
 ## 🏅 Competitive Programming
 
