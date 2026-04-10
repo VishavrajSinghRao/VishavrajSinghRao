@@ -118,28 +118,7 @@ const Vishavraj = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishavrajSinghRao&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=VishavrajSinghRao&theme=tokyonight&hide_border=true" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishavrajSinghRao&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VishavrajSinghRao&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
