@@ -25,6 +25,7 @@ const vishavraj = {
   currentWork : ["React.js", "Node.js"],
   exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
   passion     : "Building scalable, real-world applications",
+  cp          : ["LeetCode → VISHAVRAJ03", "Codeforces → VISHAVRAJ_03"],
   funFact     : "I debug with console.log and I'm not ashamed 😄",
   reach       : "Rv931563@gmail.com"
 };
@@ -40,6 +41,8 @@ const vishavraj = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__03_vishal__/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__03__vishal__)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rv931563@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VISHAVRAJ03/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VISHAVRAJ_03)
 
 </div>
 
@@ -89,6 +92,20 @@ const vishavraj = {
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🏅 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VISHAVRAJ03/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VISHAVRAJ_03)
+
+<img width="49%" src="https://leetcard.jacoblin.cool/VISHAVRAJ03?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
+<img width="49%" src="https://codeforces-readme-stats.vercel.app/api/card?user=VISHAVRAJ_03&theme=dark&border_color=1f8acb" />
+
+</div>
 
 ---
 
