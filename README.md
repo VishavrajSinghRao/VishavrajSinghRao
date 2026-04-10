@@ -102,6 +102,8 @@ const Vishavraj = {
 
 </div>
 
+---
+
 ## 🏅 Competitive Programming
 
 <div align="center">
@@ -119,8 +121,6 @@ const Vishavraj = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishavrajSinghRao&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=VishavrajSinghRao&theme=tokyonight&hide_border=true" />
@@ -145,7 +145,7 @@ const Vishavraj = {
 
 <div align="center">
 
-[![Vishavraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VishavrajSinghRao&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![snake animation](https://raw.githubusercontent.com/VishavrajSinghRao/VishavrajSinghRao/output/github-contribution-grid-snake-dark.svg)](https://github.com/VishavrajSinghRao)
 
 </div>
 
