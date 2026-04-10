@@ -26,7 +26,6 @@ const vishavraj = {
   exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
   passion     : "Building scalable, real-world applications",
   cp          : ["LeetCode → VISHAVRAJ03", "Codeforces → VISHAVRAJ_03"],
-  funFact     : "I debug with console.log and I'm not ashamed 😄",
   reach       : "Rv931563@gmail.com"
 };
 ```
@@ -112,6 +111,8 @@ const vishavraj = {
 ## 📊 GitHub Stats
 
 <div align="center">
+
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishavrajSinghRao&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=VishavrajSinghRao&theme=tokyonight&hide_border=true" />
