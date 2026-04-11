@@ -21,12 +21,12 @@
 
 ```js
 const Vishavraj = {
-  role        : "Full Stack Developer",
-  currentWork : ["React.js", "Node.js"],
-  exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
-  passion     : "Building scalable, real-world applications",
-  cp          : ["LeetCode → VISHAVRAJ03", "Codeforces → VISHAVRAJ_03"],
-  reach       : "Rv931563@gmail.com"
+  Role        : "Full Stack Developer",
+  CurrentWork : ["React.js", "Node.js"],
+  Exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
+  Passion     : "Building scalable, real-world applications",
+  CP          : ["LeetCode → VISHAVRAJ03", "Codeforces → VISHAVRAJ_03"],
+  Reach       : "rv931563@gmail.com"
 };
 ```
 
