@@ -132,7 +132,7 @@ const Vishavraj = {
 
 <div align="center">
 
-### 💬 Random Dev Quote
+### 💬 Random Dev Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
