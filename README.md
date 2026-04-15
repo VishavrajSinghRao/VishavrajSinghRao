@@ -20,7 +20,7 @@
 ## 🧑‍💻 About Me
 
 ```js
-const Vishavraj = {
+const VISHAVRAJ = {
   Role        : "Full Stack Developer",
   CurrentWork : ["React.js", "Node.js"],
   Exploring   : ["Web3", "Blockchain", "Solidity", "Rust"],
